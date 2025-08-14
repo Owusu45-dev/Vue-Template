@@ -31,7 +31,7 @@
     <main>
       <div class="main-body">
         <h1><b>Welcome to Project Defence 2025</b></h1>
-        <p>The Ultimate Technology and Programming Conference</p>
+        <p>A Comparative Analysis of Front-End Optimisation Methods for Reducing Web Page Load Time</p>
         <img
           src="/src/assets/images/Edinburgh_logo.png"
           alt="University of Edinburgh logo"
@@ -40,14 +40,14 @@
       </div>
 
       <div class="shadow-cont" id="about">
-        <h2><b>About the Event</b></h2>
+        <h2><b>About the Defense</b></h2>
         <p>
-          Faaz Tech Concert 2025 brings together leading minds in programming, tech and innovation
+          Project Defense 2025 presents a benchmarking study comparing HTML and JavaScript frameworks, measuring performance metrics and optimisation techniques under controlled conditions.
         </p>
       </div>
 
       <div class="shadow-cont" id="schedule">
-        <h2>Countdown to Event</h2>
+        <h2>Countdown to Defense</h2>
         <div class="countdown-cont">
           <img
             src="/src/assets/images/countdown-clock.jpg"
@@ -55,11 +55,11 @@
             class="countdown-img"
           />
           <div class="timer-cont">
-            <h3 class="countdown-text">Countdown</h3>
+            <h3 class="countdown-text">Time Details</h3>
             <p class="def-date">Defence Date: 28-08-2025</p>
             <div class="countdown-timer" id="countdown-timer">
-              <p>Date: <span id="date">{{ todayDate }}</span></p>
-              <p>Time: <span id="time">{{ currentTime }}</span></p>
+              <p>Current Date: <span id="date">{{ todayDate }}</span></p>
+              <p>Current Time: <span id="time">{{ currentTime }}</span></p>
             </div>
           </div>
         </div>
