@@ -1,7 +1,7 @@
 <template>
   <div>
     <header class="header">
-      <h1 class="logo-placeholder">Owusu Buaheng</h1>
+      <h1 class="logo-placeholder">Frank Owusu Buabeng</h1>
       <svg
         class="menu-btn"
         id="menu-btn"
@@ -33,7 +33,7 @@
         <h1><b>Welcome to Project Defence 2025</b></h1>
         <p>A Comparative Analysis of Front-End Optimisation Methods for Reducing Web Page Load Time</p>
         <img
-          src="/src/assets/images/Edinburgh_logo.png"
+          src="/src/assets/images/edinburgh_napier_logo.png"
           alt="University of Edinburgh logo"
           class="edin-logo"
         />
@@ -81,7 +81,7 @@
     </main>
 
     <footer>
-      Owusu Buaheng | Copyright &copy; 2025
+      Frank Owusu Buabeng | Copyright &copy; 2025
     </footer>
   </div>
 </template>
